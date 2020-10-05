@@ -4,7 +4,6 @@ https://leetcode.com/matthope1/
 
 <!-- 
 Does this show up?
-
 -->
 
 I’m currently learning front end web development @ juno college
