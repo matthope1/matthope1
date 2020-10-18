@@ -6,7 +6,6 @@ Does this show up?
 
 -->
 
-### Front-End Web Developer
 
 I’m currently learning React
 
