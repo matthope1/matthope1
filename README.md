@@ -16,5 +16,4 @@ Front End Developer
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=matt-hope&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
-<p> Find me here </p>
 https://leetcode.com/matthope1/
