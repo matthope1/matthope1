@@ -5,7 +5,8 @@
 Does this show up?
 
 -->
-Front End Developer 
+
+Welcome!
 
 - Currently working on my keyboard website
 - Learning React
