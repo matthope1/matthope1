@@ -6,6 +6,7 @@ Does this show up?
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=matt-hope&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
 -->
 
+
 Welcome!
 
 - Currently working on https://www.meac.ca/
