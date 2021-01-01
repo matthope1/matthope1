@@ -7,7 +7,6 @@ Does this show up?
 -->
 
 Welcome!
-
 - Currently working on https://www.meac.ca/
 - Learning React
 - Learning how to contribute to open source
