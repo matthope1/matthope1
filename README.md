@@ -8,7 +8,7 @@ Does this show up?
 
 Welcome!
 
-- Currently working on keeb-store
+- dont @@@@ me 
 - Learning React
 - Learning how to contribute to open source
 
