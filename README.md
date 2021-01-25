@@ -8,7 +8,7 @@ Does this show up?
 
 Welcome!
 
-- dont @@@@ me 
+- @@@@ me 
 - Learning React
 - Learning how to contribute to open source
 
