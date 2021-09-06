@@ -6,10 +6,8 @@ Does this show up?
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=matt-hope&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 -->
+@@@@ me 
 
-Welcome!
-
-- @@@@ me 
 - Learning Solidium, React, & Web scraping with Selenium + python
 - Learning how to contribute to open source
 
