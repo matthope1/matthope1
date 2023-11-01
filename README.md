@@ -8,8 +8,9 @@ Does this show up?
 
 @@@@ me 
 
-- Nodejs, React, Python, Solidity
-- Currently learning golang
+- Javascript/Nodejs, Python, c++
+- React
+- Currently learning Golang
 
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 <img src='https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif' width='100'>
